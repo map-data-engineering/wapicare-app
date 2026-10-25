@@ -1,16 +1,16 @@
 {
-  "id": "/healthscope/",
+  "id": "/wapicare-app/",
   "name": "WapiCare",
   "short_name": "WapiCare",
-  "start_url": "/healthscope/",
-  "scope": "/healthscope/",
+  "start_url": "/wapicare-app/",
+  "scope": "/wapicare-app/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#FFFFFF",
   "theme_color": "#D9B340",
   "icons": [
-    { "src": "/healthscope/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/healthscope/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
-    { "src": "/healthscope/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    { "src": "/wapicare-app/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/wapicare-app/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/wapicare-app/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
