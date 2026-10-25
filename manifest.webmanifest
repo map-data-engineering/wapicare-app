@@ -1,7 +1,7 @@
 {
   "id": "/healthscope/",
-  "name": "Afya-Alert",
-  "short_name": "Afya-Alert",
+  "name": "WapiCare",
+  "short_name": "WapiCare",
   "start_url": "/healthscope/",
   "scope": "/healthscope/",
   "display": "standalone",
